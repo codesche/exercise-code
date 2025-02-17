@@ -1,0 +1,9 @@
+# exercise-code
+
+## 요약
+
+| Repository명 | 설명 |
+|:---:|:---:|
+|kotlin-base|kotlin 기본 문법 학습에 대한 내용을 정리하였습니다.|
+
+   
