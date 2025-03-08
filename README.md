@@ -13,3 +13,4 @@
 |[LiskovSubstitutionPrinciple](https://github.com/codesche/exercise-code/tree/main/LiskovSubstitutionPrinciple)|리스코프 치환 원칙에 대한 학습 내용을 정리하였습니다.|
 |[InterfaceSegregationPrinciple](https://github.com/codesche/exercise-code/tree/main/InterfaceSegregationPrinciple/src/main/java)|인터페이스 분리 원칙에 대한 학습내용을 정리하였습니다.|
 |[InversionPrinciple](https://github.com/codesche/exercise-code/tree/main/InversionPrinciple/src/main/java)|의존관계 역전 원칙에 대한 학습 내용을 정리하였습니다.|  
+|[DI-IOC](https://github.com/codesche/exercise-code/tree/main/DI-IOC/src/main/java/com/exercise)|DI, IoC에 대한 예제를 정리하였습니다.|
